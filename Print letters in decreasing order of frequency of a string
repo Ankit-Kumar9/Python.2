@@ -1,4 +1,4 @@
-#Code By Mark Thankappan
+
 W= input('Please enter a string ')
 def most_frequent(string):
     d = dict()
